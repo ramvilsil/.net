@@ -13,8 +13,13 @@ This repository consists of a practice exercises developed with .NET
 
 ## Contents
 
-- Car Insurance Web App (ASP.NET)
+- Car Insurance (.NET Framework MVC Web App)
+  - Uses the database first approach with Entity Framework
+
+- Code to Database (.NET Core Console App)
+  - Uses the code first approach to generate a database with Entity Framework
 
 - Deployed Web App (.NET Core)
+  - Deployed with Azure through Visual Studio
 
-- Code to Database Console App (.NET Core)
+
