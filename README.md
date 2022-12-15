@@ -1,21 +1,18 @@
-# .NET Projects
+# .NET Exercises
 
-
-### About
-
-This repository consists of a practice exercises developed with .NET 
-
+Programming with the .NET Framework & .NET Core
 
 
 ## Contents
 
 - Car Insurance (ASP.NET MVC Web App)
-  - Uses the database first approach with Entity Framework
+  - CRUD application with the database first approach. Used Entity Framework to generate models, views, and controllers.
 
 - Code to Database (.NET Console App)
-  - Uses the code first approach to generate a database with Entity Framework
+  - Used the code first approach to generate a database with Entity Framework
 
 - Deployed Web App (ASP.NET Core Web App)
-  - Deployed with Azure through Visual Studio
+  - Practiced deploying a web app with Azure
 
 
+## Images
