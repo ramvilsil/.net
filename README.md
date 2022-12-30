@@ -13,6 +13,3 @@ Programming with the .NET Framework & .NET Core
 
 - Deployed Web App (ASP.NET Core Web App)
   - Practiced deploying a web app with Azure
-
-
-## Images
